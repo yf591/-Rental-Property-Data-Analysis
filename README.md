@@ -50,6 +50,9 @@ This project is released under the MIT License.
 
 ### Disclaimer
 
+This project aims to analyze rental property information but is not affiliated with any specific website.
+The author assumes no responsibility for any damages caused by this project.
+
 -----------------
 
 ## 賃貸物件データ分析
@@ -106,5 +109,3 @@ This project is released under the MIT License.
 このプロジェクトは、賃貸物件情報を分析することを目的としていますが、特定のサイトとは一切関係ありません。
 このプロジェクトによって生じた損害について、作者は一切の責任を負いません。
 
-This project aims to analyze rental property information but is not affiliated with any specific website.
-The author assumes no responsibility for any damages caused by this project.

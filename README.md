@@ -1,4 +1,4 @@
-# -Rental-Property-Data-Analysis
+# Rental-Property-Data-Analysis
 
 ## Rental Property Data Analysis
 

@@ -53,6 +53,11 @@ This project is released under the MIT License.
 This project aims to analyze rental property information but is not affiliated with any specific website.
 The author assumes no responsibility for any damages caused by this project.
 
+### References
+
+* **Scrape rental property data programmatically:** [SUUMOの物件情報を自動取得（スクレイピング）したのでコードを解説する。 #Python - Qiita](https://qiita.com/tomyu/items/a08d3180b7cbe63667c9)
+* **Data analysis of rental properties:** [アラサーエンジニア シティボーイ化計画 - 都会のお得物件を統計的に探してみる -｜hanaori (note.com)](https://note.com/hanaori/n/n0a51b7351909)
+
 -----------------
 
 ## 賃貸物件データ分析
